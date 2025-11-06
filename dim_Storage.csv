@@ -1,0 +1,7 @@
+id_storage,nome_storage,marca,tipo_interface,capacidade_gb,velocidade_leitura_mbps,preco_medio_brl,avaliacao_media
+1,Kingston NV3 1TB,Kingston,M.2 NVMe,1000,6000,460.00,4.7
+2,Kingston NV2 1TB,Kingston,M.2 NVMe,1000,3500,400.00,4.6
+3,Samsung 980 Pro 1TB,Samsung,M.2 NVMe,1000,7000,850.00,4.9
+4,Samsung 990 Pro 1TB,Samsung,M.2 NVMe,1000,7450,800.00,5.0
+5,Crucial P3 Plus 1TB,Crucial,M.2 NVMe,1000,5000,650.00,4.7
+6,Kingston NV2 2TB,Kingston,M.2 NVMe,2000,3500,900.00,4.6

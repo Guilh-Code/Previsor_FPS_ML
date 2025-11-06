@@ -1,0 +1,16 @@
+id_ram,nome_ram,marca,tipo_ram,capacidade_total_gb,velocidade_mhz,preco_medio_brl,avaliacao_media
+1,Kingston Fury Beast 16GB (2x8) 5200MHz,Kingston,DDR5,16,5200,550.00,4.7
+2,Kingston Fury Beast 32GB (2x16) 5600MHz,Kingston,DDR5,32,5600,900.00,4.8
+3,Kingston Fury Beast 32GB (2x16) 6000MHz,Kingston,DDR5,32,6000,1050.00,4.9
+4,Corsair Vengeance 16GB (2x8) 5200MHz,Corsair,DDR5,16,5200,580.00,4.8
+5,Corsair Vengeance 32GB (2x16) 6000MHz,Corsair,DDR5,32,6000,1100.00,4.9
+6,G.Skill Trident Z5 32GB (2x16) 6000MHz,G.Skill,DDR5,32,6000,1200.00,4.9
+7,G.Skill Trident Z5 64GB (2x32) 6000MHz,G.Skill,DDR5,64,6000,2100.00,4.8
+8,Kingston Fury Renegade 16GB (2x8) 3200MHz,Kingston,DDR4,16,3200,320.00,4.8
+9,Kingston Fury Renegade 16GB (2x8) 3600MHz,Kingston,DDR4,16,3600,380.00,4.9
+10,Kingston Fury Renegade 32GB (2x16) 3600MHz,Kingston,DDR4,32,3600,650.00,4.9
+11,Corsair Vengeance LPX 16GB (2x8) 3200MHz,Corsair,DDR4,16,3200,340.00,4.8
+12,Corsair Vengeance LPX 32GB (2x16) 3600MHz,Corsair,DDR4,32,3600,680.00,4.8
+13,XPG Spectrix D41 16GB (2x8) 3200MHz,XPG,DDR4,16,3200,350.00,4.7
+14,Rise Mode Z 8GB (1x8) 3200MHz,Rise Mode,DDR4,8,3200,120.00,4.3
+15,Crucial Basics 16GB (1x16) 4800MHz,Crucial,DDR5,16,4800,400.00,4.5

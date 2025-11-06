@@ -1,0 +1,483 @@
+fps_medio,nome_gpu,memoria_gb_gpu,consumo_tdp_watts_gpu,gpu_preco,nome_cpu,cpu_nucleos,cpu_clock,cpu_preco,nome_jogo,jogo_genero,jogo_exigencia,resolucao,qualidade_grafica
+390,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+350,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+510,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+115,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+80,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (DLSS Qualidade)
+110,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+95,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+130,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (DLSS Qualidade)
+230,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+90,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+130,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+105,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+100,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+290,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+410,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+415,RTX 5060 Ti,8,180,2800.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+370,RTX 5060 Ti,8,180,2800.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+530,RTX 5060 Ti,8,180,2800.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+132,RTX 5060 Ti,8,180,2800.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+95,RTX 5060 Ti,8,180,2800.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (DLSS Qualidade)
+125,RTX 5060 Ti,8,180,2800.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+110,RTX 5060 Ti,8,180,2800.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+145,RTX 5060 Ti,8,180,2800.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (DLSS Qualidade)
+250,RTX 5060 Ti,8,180,2800.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+105,RTX 5060 Ti,8,180,2800.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+145,RTX 5060 Ti,8,180,2800.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+120,RTX 5060 Ti,8,180,2800.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+115,RTX 5060 Ti,8,180,2800.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+310,RTX 5060 Ti,8,180,2800.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+430,RTX 5060 Ti,8,180,2800.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+420,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+375,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+535,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+135,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+100,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (DLSS Qualidade)
+128,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+112,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+148,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (DLSS Qualidade)
+255,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+108,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+148,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+123,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+118,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+315,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+435,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+480,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+420,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+580,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+160,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+125,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (DLSS Qualidade)
+150,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+135,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+170,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (DLSS Qualidade)
+290,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+130,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+170,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+145,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+135,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+360,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+480,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+610,RTX 5080,16,280,8900.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+530,RTX 5080,16,280,8900.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+650,RTX 5080,16,280,8900.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+205,RTX 5080,16,280,8900.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+160,RTX 5080,16,280,8900.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (DLSS Qualidade)
+180,RTX 5080,16,280,8900.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+165,RTX 5080,16,280,8900.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+210,RTX 5080,16,280,8900.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (DLSS Qualidade)
+340,RTX 5080,16,280,8900.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+160,RTX 5080,16,280,8900.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+200,RTX 5080,16,280,8900.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+180,RTX 5080,16,280,8900.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+165,RTX 5080,16,280,8900.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+420,RTX 5080,16,280,8900.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+550,RTX 5080,16,280,8900.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+710,RTX 5090,24,450,19700.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+600,RTX 5090,24,450,19700.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+700,RTX 5090,24,450,19700.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+240,RTX 5090,24,450,19700.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+190,RTX 5090,24,450,19700.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (DLSS Qualidade)
+210,RTX 5090,24,450,19700.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+195,RTX 5090,24,450,19700.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+250,RTX 5090,24,450,19700.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (DLSS Qualidade)
+380,RTX 5090,24,450,19700.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+185,RTX 5090,24,450,19700.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+220,RTX 5090,24,450,19700.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+205,RTX 5090,24,450,19700.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+190,RTX 5090,24,450,19700.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+460,RTX 5090,24,450,19700.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+600,RTX 5090,24,450,19700.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+370,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+330,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+500,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+88,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+65,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (DLSS Qualidade)
+80,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+82,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+115,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (DLSS Qualidade)
+220,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+75,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+120,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+90,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+95,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+280,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+400,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+385,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+345,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+515,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+102,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+75,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (DLSS Qualidade)
+98,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+95,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+125,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (DLSS Qualidade)
+235,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+88,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+135,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+105,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+102,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+295,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+415,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+390,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+350,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+520,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+105,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+80,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (DLSS Qualidade)
+100,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+98,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+128,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (DLSS Qualidade)
+238,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+90,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+138,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+108,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+105,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+300,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+420,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+450,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+390,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+560,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+145,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+115,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (DLSS Qualidade)
+135,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+125,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+160,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (DLSS Qualidade)
+275,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+120,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+160,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+135,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+125,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+345,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+460,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+680,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+580,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+680,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+220,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+175,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (DLSS Qualidade)
+195,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+180,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+230,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (DLSS Qualidade)
+360,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+175,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+210,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+190,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+175,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+440,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+580,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+290,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+260,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+480,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+92,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+60,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (FSR Qualidade)
+85,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+85,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+105,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (FSR Qualidade)
+160,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+70,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+105,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+80,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+90,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+270,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+400,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+310,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+280,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+495,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+110,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+70,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (FSR Qualidade)
+100,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+95,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+115,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (FSR Qualidade)
+180,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+82,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+115,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+92,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+102,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+285,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+415,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+330,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+300,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+510,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+125,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+85,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (FSR Qualidade)
+115,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+105,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+130,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (FSR Qualidade)
+200,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+100,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+130,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+110,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+112,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+300,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+430,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+350,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+320,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+525,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+140,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+100,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (FSR Qualidade)
+125,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+120,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+145,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (FSR Qualidade)
+220,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+115,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+145,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+125,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+122,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+320,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+445,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+400,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+360,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+550,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+180,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+135,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (FSR Qualidade)
+155,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+150,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+170,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (FSR Qualidade)
+250,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+140,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+170,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+150,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+145,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+350,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+470,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+320,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+290,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+505,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+130,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+90,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (FSR Qualidade)
+120,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+110,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+135,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (FSR Qualidade)
+205,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+105,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+135,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+115,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+115,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+305,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+435,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+360,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+330,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+535,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+165,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+120,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (FSR Qualidade)
+140,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+130,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+155,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (FSR Qualidade)
+230,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+125,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+155,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+135,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+130,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+330,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+455,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+260,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+240,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+480,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+72,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+48,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (DLSS Qualidade)
+75,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+70,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+95,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (DLSS Qualidade)
+140,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+65,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+95,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+70,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+80,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+260,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+390,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+250,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+230,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+460,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+68,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+45,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (FSR Qualidade)
+70,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+65,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+85,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto (FSR Qualidade)
+130,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+60,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+85,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+65,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+75,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+250,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+380,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+280,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Alto
+250,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Alto
+470,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Alto
+75,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+50,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (FSR Qualidade)
+78,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Alto
+72,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Starfield,RPG de Ação,Alto,1080p,Alto
+90,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Alto
+150,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+68,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Alto
+90,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+72,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Alto
+82,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+270,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Alto
+395,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Rocket League,Esporte,Muito Baixo,1080p,Alto
+380,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+340,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Counter-Strike 2,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+130,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Baixo
+110,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Medio
+65,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Ultra
+70,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Ultra
+450,RX 7600,8,165,1600.0,Ryzen 7 7800X3D,8,5.0,2300.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+105,RX 7600,8,165,1600.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+115,RX 7600,8,165,1600.0,Ryzen 7 7800X3D,8,5.0,2300.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Alto
+90,RX 7600,8,165,1600.0,Ryzen 7 7800X3D,8,5.0,2300.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Ultra
+105,RTX 4060,8,115,1800.0,Ryzen 5 7600,6,5.1,1350.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Medio (DLSS Qualidade)
+85,RTX 4060,8,115,1800.0,Ryzen 5 7600,6,5.1,1350.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Baixo (DLSS Qualidade)
+62,RTX 4060,8,115,1800.0,Ryzen 5 7600,6,5.1,1350.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Medio (DLSS Qualidade)
+190,RTX 4060,8,115,1800.0,Ryzen 5 7600,6,5.1,1350.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Baixo (Competitivo)
+90,RTX 4060,8,115,1800.0,Ryzen 5 7600,6,5.1,1350.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Ultra
+75,RTX 4060,8,115,1800.0,Ryzen 5 7600,6,5.1,1350.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1080p,Ultra
+80,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Ultra (DLSS Qualidade + RT)
+75,RTX 5060,8,140,2200.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (DLSS Qualidade + RT)
+95,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Alto (FSR Qualidade)
+105,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Alto (FSR Qualidade)
+80,RX 7800 XT,16,263,3700.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Ultra (FSR Qualidade)
+80,RX 7800 XT,16,263,3700.0,Ryzen 7 7800X3D,8,5.0,2300.0,Starfield,RPG de Ação,Alto,1440p,Alto
+95,RX 7800 XT,16,263,3700.0,Ryzen 7 7800X3D,8,5.0,2300.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1440p,Ultra
+120,RX 7800 XT,16,263,3700.0,Ryzen 7 7800X3D,8,5.0,2300.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1440p,Ultra
+85,RX 7800 XT,16,263,3700.0,Ryzen 7 7800X3D,8,5.0,2300.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1440p,Alto
+115,RTX 4070 Super,12,220,4200.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Alto (DLSS Qualidade)
+90,RTX 4070 Super,12,220,4200.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Ultra (DLSS Qualidade)
+70,RTX 4070 Super,12,220,4200.0,Ryzen 7 7800X3D,8,5.0,2300.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1440p,Alto (DLSS Qualidade + RT)
+110,RTX 4070 Super,12,220,4200.0,Ryzen 7 7800X3D,8,5.0,2300.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1440p,Ultra
+120,RX 9700 XT,16,250,4900.0,Ryzen 9 7950X,16,5.7,4000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Ultra (FSR Qualidade)
+65,RX 9700 XT,16,250,4900.0,Ryzen 9 7950X,16,5.7,4000.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1440p,Alto (FSR Qualidade + RT)
+110,RX 9700 XT,16,250,4900.0,Ryzen 9 7950X,16,5.7,4000.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1440p,Ultra
+135,RTX 5070,12,220,3900.0,Ryzen 7 9700X,8,5.5,2000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Ultra (DLSS Qualidade)
+85,RTX 5070,12,220,3900.0,Ryzen 7 9700X,8,5.5,2000.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1440p,Alto (DLSS Qualidade + RT)
+120,RTX 5070,12,220,3900.0,Ryzen 7 9700X,8,5.5,2000.0,Red Dead Redemption 2,Mundo Aberto (Ação),Alto,1440p,Ultra (DLSS Qualidade)
+140,RTX 5070,12,220,3900.0,Ryzen 7 9700X,8,5.5,2000.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1440p,Ultra (DLSS Qualidade)
+110,RTX 5070,12,220,3900.0,Ryzen 7 9700X,8,5.5,2000.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1440p,Ultra (DLSS Qualidade)
+95,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Medio
+210,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+310,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Baixo (Competitivo)
+480,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,League of Legends,MOBA,Muito Baixo,1080p,Muito Alto
+280,RX 6600,8,132,1300.0,Ryzen 5 5600,6,4.4,1000.0,League of Legends,MOBA,Muito Baixo,1080p,Muito Alto
+55,RX 6600,8,132,1300.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Medio
+70,RX 6600,8,132,1300.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Baixo
+90,RX 6600,8,132,1300.0,Ryzen 5 5600,6,4.4,1000.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Alto
+45,RX 6600,8,132,1300.0,Ryzen 5 5600,6,4.4,1000.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Medio
+190,RX 6600,8,132,1300.0,Ryzen 5 5600,6,4.4,1000.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Baixo (Competitivo)
+250,RX 6600,8,132,1300.0,Ryzen 5 5500,6,4.2,500.0,League of Legends,MOBA,Muito Baixo,1080p,Muito Alto
+40,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (FSR Qualidade + RT)
+55,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Medio (FSR Qualidade)
+65,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Alto (DLSS Qualidade + RT)
+80,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1080p,Medio (DLSS Qualidade)
+280,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+75,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Baixo
+75,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Elden Ring,RPG de Ação,Alto,1080p,Medio
+310,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+180,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+270,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Rainbow Six Siege,FPS Tático,Baixo,1080p,Baixo (Competitivo)
+320,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+450,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+680,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+405,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+430,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+460,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+550,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+425,RX 9600 XT,16,200,2850.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+490,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+320,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+310,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+350,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+370,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+385,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+390,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+200,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Baixo (Competitivo)
+180,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Baixo (Competitivo)
+160,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Baixo (Competitivo)
+170,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Baixo (Competitivo)
+110,RTX 4060,8,115,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Baixo (Competitivo)
+100,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Baixo (Competitivo)
+90,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Baixo (Competitivo)
+95,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1080p,Baixo (Competitivo)
+125,RTX 5060,8,140,2200.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+142,RTX 5060 Ti,8,180,2800.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+145,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+100,RTX 4060,8,115,1800.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+112,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+115,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+105,RX 7600,8,165,1600.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+120,RX 7600 XT,16,190,2500.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+135,RX 7700 XT,12,245,2900.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+150,RX 7800 XT,16,263,3700.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+140,RX 9600 XT,16,200,2850.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+82,RTX 3060 12GB,12,170,1800.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+78,RX 6600,8,132,1300.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+85,Intel Arc A770 16GB,16,225,2000.0,Ryzen 7 7800X3D,8,5.0,2300.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+100,RTX 5060,8,140,2200.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+115,RTX 5060 Ti,8,180,2800.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+118,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+75,RTX 4060,8,115,1800.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+88,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+90,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+80,RX 7600,8,165,1600.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+95,RX 7600 XT,16,190,2500.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+108,RX 7700 XT,12,245,2900.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+120,RX 7800 XT,16,263,3700.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+112,RX 9600 XT,16,200,2850.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+65,RTX 3060 12GB,12,170,1800.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+60,RX 6600,8,132,1300.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+68,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 5600,6,4.4,1000.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1080p,Alto
+300,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1440p,Alto
+90,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Alto
+65,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1440p,Alto (DLSS Qualidade)
+80,RTX 5060 Ti 16GB,16,185,3300.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1440p,Alto
+350,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1440p,Alto
+110,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Alto
+80,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1440p,Alto (DLSS Qualidade)
+95,RTX 5070,12,220,3900.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1440p,Alto
+280,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1440p,Alto
+70,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Alto
+50,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1440p,Alto (DLSS Qualidade)
+70,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1440p,Alto
+285,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1440p,Alto
+72,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Alto
+52,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1440p,Alto (DLSS Qualidade)
+72,RTX 4060 Ti 16GB,16,165,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1440p,Alto
+330,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1440p,Alto
+95,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Alto
+70,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1440p,Alto (DLSS Qualidade)
+90,RTX 4070 Super,12,220,4200.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1440p,Alto
+480,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1440p,Alto
+150,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Alto
+110,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1440p,Alto (DLSS Qualidade)
+120,RTX 4090,24,450,23500.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1440p,Alto
+240,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1440p,Alto
+98,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Alto
+65,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1440p,Alto (FSR Qualidade)
+85,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1440p,Alto
+290,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1440p,Alto
+120,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Alto
+80,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1440p,Alto (FSR Qualidade)
+105,RX 7900 XT,20,315,4300.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1440p,Alto
+260,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Valorant,FPS Competitivo,Baixo,1440p,Alto
+110,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Cyberpunk 2077,RPG de Ação,Muito Alto,1440p,Alto
+70,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Alan Wake 2,Survival Horror,Extremo (Path Tracing),1440p,Alto (FSR Qualidade)
+95,RX 9700 XT,16,250,4900.0,Ryzen 5 9600X,6,5.4,1500.0,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU),1440p,Alto
+410,RTX 5060,8,140,2200.0,Ryzen 7 7800X3D,8,5.0,2300.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+400,RTX 4060,8,115,1800.0,Ryzen 7 7800X3D,8,5.0,2300.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+450,RX 7600,8,165,1600.0,Ryzen 7 7800X3D,8,5.0,2300.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+380,RTX 3060 12GB,12,170,1800.0,Ryzen 7 7800X3D,8,5.0,2300.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+370,RX 6600,8,132,1300.0,Ryzen 7 7800X3D,8,5.0,2300.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+395,Intel Arc A770 16GB,16,225,2000.0,Ryzen 7 7800X3D,8,5.0,2300.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+340,RTX 5060,8,140,2200.0,Ryzen 5 5600,6,4.4,1000.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+320,RTX 4060,8,115,1800.0,Ryzen 5 5600,6,4.4,1000.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+330,RX 7600,8,165,1600.0,Ryzen 5 5600,6,4.4,1000.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+280,RTX 3060 12GB,12,170,1800.0,Ryzen 5 5600,6,4.4,1000.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+270,RX 6600,8,132,1300.0,Ryzen 5 5600,6,4.4,1000.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+300,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 5600,6,4.4,1000.0,Valorant,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+150,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Fortnite,Battle Royale,Médio (com Ray Tracing),1080p,Médio
+210,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Baixo (Competitivo)
+160,RX 7600,8,165,1600.0,Ryzen 5 9600X,6,5.4,1500.0,Apex Legends,FPS Competitivo,Baixo,1080p,Alto
+80,RTX 3060 12GB,12,170,1800.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Ultra
+75,RX 6600,8,132,1300.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Ultra
+80,Intel Arc A770 16GB,16,225,2000.0,Ryzen 5 9600X,6,5.4,1500.0,GTA V,Mundo Aberto (Ação),Médio,1080p,Ultra
+95,RX 7600 XT,16,190,2500.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Ultra (FSR Qualidade)
+115,RX 7700 XT,12,245,2900.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Ultra (FSR Qualidade)
+130,RX 7800 XT,16,263,3700.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Ultra (FSR Qualidade)
+110,RTX 4060 Ti 8GB,8,160,2400.0,Ryzen 5 9600X,6,5.4,1500.0,Forza Horizon 5,Corrida (Sim-Arcade),Alto,1080p,Ultra (DLSS Qualidade)

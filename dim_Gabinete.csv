@@ -1,0 +1,8 @@
+id_case,nome_case,marca,formato,limite_altura_aircooler_mm,limite_comprimento_gpu_mm,suporte_radiador_topo_mm,preco_medio_brl,avaliacao_media
+1,Lian Li Vector V100,Lian Li,Mid Tower,178,420,360,540.00,4.5
+2,Redragon Wideload Lite,Redragon,Mid Tower,175,395,360,280.00,4.2
+3,Pichau Kazan 2,Pichau,Mid Tower,165,340,240,200.00,4.7
+4,Cooler Master TD500 Mesh,Cooler Master,Mid Tower,165,410,360,650.00,4.8
+5,Montech Air 903 MAX,Montech,Mid Tower,180,400,360,450.00,4.9
+6,Corsair 4000D Airflow,Corsair,Mid Tower,170,360,280,600.00,4.9
+7,Rise Mode Glass 06,Rise Mode,Mid Tower,160,330,240,250.00,4.1

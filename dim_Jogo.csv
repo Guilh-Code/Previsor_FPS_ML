@@ -1,0 +1,16 @@
+id_jogo,nome_jogo,genero,nivel_exigencia_gpu
+1,Valorant,FPS Competitivo,Baixo
+2,Counter-Strike 2,FPS Competitivo,Baixo
+3,League of Legends,MOBA,Muito Baixo
+4,Cyberpunk 2077,RPG de Ação,Muito Alto
+5,Alan Wake 2,Survival Horror,Extremo (Path Tracing)
+6,Elden Ring,RPG de Ação,Alto
+7,Starfield,RPG de Ação,Alto
+8,Fortnite,Battle Royale,Médio (com Ray Tracing)
+9,Apex Legends,FPS Competitivo,Baixo
+10,Red Dead Redemption 2,Mundo Aberto (Ação),Alto
+11,GTA V,Mundo Aberto (Ação),Médio
+12,Forza Horizon 5,Corrida (Sim-Arcade),Alto
+13,Baldur's Gate 3,RPG (Turno),Alto (Pesado de CPU)
+14,Rainbow Six Siege,FPS Tático,Baixo
+15,Rocket League,Esporte,Muito Baixo
